@@ -7,6 +7,7 @@ public class Test2 {
 		System.out.println("maven test");
 		System.out.println("maven test2");
 		System.out.println("maven test3");
+		System.out.println("maven test4");
 	}
 
 }
